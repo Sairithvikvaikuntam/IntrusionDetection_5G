@@ -1,0 +1,7 @@
+Title: Real-Time Intrusion Detection and Prevention System for 5G and beyond Software-Defined Networks
+
+This paper introduces an innovative Intrusion Detection and Prevention System (IDS/IPS) leveraging a Convolutional Neural Network (CNN) model [7]. The proposed system excels in real-time processing, vital for 5G’s high-speed requirements.The CNN model, employed for preprocessing and analysis,
+demonstrates high accuracy in identifying both known and unknown threat patterns. The architecture ensures scalability, and performance metrics, including accuracy, highlight the system’s efficiency. Additionally, the paper introduces the 5G-NIDD dataset, contributing significantly to 5G network
+security research.
+
+Reference: Bocu, R.; Iavich, M.Real-Time Intrusion Detection and Prevention System for 5G and beyond Software-Defined Networks.Symmetry 2023,15, 110. https://doi.org/10.3390/sym15010110
