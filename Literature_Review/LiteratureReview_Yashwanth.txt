@@ -1,0 +1,7 @@
+Wireless Intrusion and Attack Detection
+
+Paper proposes a new system to detect cyberattacks in 5G networks, specifically focusing on "Wireless Intrusion Detection Systems" (WIDS). Machine learning, particularly deep learning, is highlighted as a potent solution due to its capacity to decipher intricate behaviors, a pivotal attribute in effective network intrusion detection. The literature extensively surveys prior research, encompassing diverse techniques such as Random Forest, Adaboost, Decision Tree, k-Nearest Neighbor, Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), and Convolutional Neural Networks (CNN). Notably, studies leveraging deep learning, including Autoencoder, DNN, CNN, ANN, and LSTM, exhibit promising outcomes, showcasing their efficacy in achieving precise intrusion detection in the intricate 5G network landscape
+
+References:
+
+Bayana alenazi, Dr. Hala Eldaw Idris,  ``Wireless Intrusion and Attack Detection for 5G Networks using Deep Learning Techniques
