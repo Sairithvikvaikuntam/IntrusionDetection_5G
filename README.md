@@ -2,7 +2,7 @@
 
 Steps to run Colab notebooks:
 
-1. Download the dataset (combined.csv) from https://etsin.fairdata.fi/dataset/9d13ef28-2ca7-44b0-9950-225359afac65/data
-2. Open the .ipynb file in google colab
-3. Upload the extracted combined.csv file into your google drive (in root folder)
-4. Run the colab file from Runtime -> Run all
+1. Download or clone the project from the github main/master branch
+2. Unpack the .zip files. (Those include the Datasets used by the models)
+3. Run the cmd: pip install -r requirements.txt . (Make sure you are in the project home directory containing requirements.txt)
+4. Run any .ipynb file to the see the results corresponding to the particular model.
