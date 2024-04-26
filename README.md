@@ -1,14 +1,46 @@
-# IntrusionDetection_5G# IntrusionDetection_5G
+# IntrusionDetection_5G
 
-Steps to run Colab notebooks:
+## Introduction
 
-1. Download or clone the project from the github main/master branch
-2. Unpack the .zip files in the path IntrusionDetection_5G/data_processed and IntrusionDetection_5G/data_original to get the csv files used by the models. (Those include the Datasets used by the models)
-3. Create a python virutal environment with python3.10. cmd: python3.10 -m venv test_env
-4. Activate the virtual environment: cmd: source test_env/bin/activate
-5. Run the cmd: pip install -r requirements.txt . (Make sure you are in the project home directory "IntrusionDetection_5G" containing requirements.txt)
-6. Run any .ipynb files to the see the results corresponding to the particular model in the path IntrusionDetection_5G/models.
+This project focuses on Intrusion Detection in 5G networks using various machine learning models. The system is designed to run on Python 3.10.
 
-Requirements:
-    1. Python3.10
-    2. Jupyter Notebook
+## Usage
+
+### Steps to Run Colab Notebooks
+
+1. **Download or Clone the Project**: Obtain the project files from the GitHub main/master branch.
+2. **Unpack Data Files**: Unzip the .zip files located in the following paths to access the CSV files used by the models:
+   - `IntrusionDetection_5G/data_processed`
+   - `IntrusionDetection_5G/data_processed/models`
+   - `IntrusionDetection_5G/data_original`
+3. **Create Python Virtual Environment**: Set up a Python virtual environment with Python 3.10 using the following command:
+    ```
+    python3 -m venv test_env
+    ```
+4. **Activate the Virtual Environment**:
+    - **MacOS**:
+        ```
+        source test_env/bin/activate
+        ```
+    - **Windows**:
+        ```
+        test_env\Scripts\activate
+        ```
+5. **Install Requirements**: Navigate to the project's home directory (where `requirements.txt` is located) and run the following command:
+    ```
+    pip install -r requirements.txt
+    ```
+6. **Run Notebooks**: Execute any .ipynb files to view the results corresponding to the specific model. These files are located in the path `IntrusionDetection_5G/models`.
+
+### Requirements
+
+Ensure the following dependencies are installed:
+
+1. Python 3.10
+2. Jupyter Notebook
+
+### Hardware Requirements
+
+1. Windows/Mac Laptop
+2. 8GB RAM
+3. 128GB SSD Memory
