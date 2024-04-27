@@ -9,9 +9,8 @@ This project focuses on Intrusion Detection in 5G networks using various machine
 ### Steps to Run Colab Notebooks
 
 1. **Download or Clone the Project**: Obtain the project files from the GitHub main/master branch.
-2. **Unpack Data Files**: Unzip the .zip files located in the following paths to access the CSV files used by the models:
+2. **Unpack Data Files**: Unzip the .zip files and folders located in the following paths to access the CSV files used by the models:
    - `IntrusionDetection_5G/data_processed`
-   - `IntrusionDetection_5G/data_processed/models`
    - `IntrusionDetection_5G/data_original`
 3. **Create Python Virtual Environment**: Set up a Python virtual environment with Python 3.10 using the following command:
     ```
