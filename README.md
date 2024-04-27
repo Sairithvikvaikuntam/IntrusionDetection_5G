@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on Intrusion Detection in 5G networks using various machine learning models. The system is designed to run on Python 3.10.
+This project focuses on Intrusion Detection in 5G networks using various machine learning models. The system is designed to run on Python 3.9.
 
 ## Usage
 
@@ -12,7 +12,7 @@ This project focuses on Intrusion Detection in 5G networks using various machine
 2. **Unpack Data Files**: Unzip the .zip files and folders located in the following paths to access the CSV files used by the models:
    - `IntrusionDetection_5G/data_processed`
    - `IntrusionDetection_5G/data_original`
-3. **Create Python Virtual Environment**: Set up a Python virtual environment with Python 3.10 using the following command:
+3. **Create Python Virtual Environment**: Set up a Python virtual environment with Python 3.9 using the following command:
     ```
     python3 -m venv test_env
     ```
@@ -35,7 +35,7 @@ This project focuses on Intrusion Detection in 5G networks using various machine
 
 Ensure the following dependencies are installed:
 
-1. Python 3.10
+1. Python 3.9
 2. Jupyter Notebook
 
 ### Hardware Requirements
