@@ -30,7 +30,14 @@ This project focuses on Intrusion Detection in 5G networks using various machine
     pip install -r requirements.txt
     ```
 6. **Run Notebooks**: Execute any .ipynb files to view the results corresponding to the specific model. These files are located in the path `IntrusionDetection_5G/models`.
-
+7. You can open the jupyter notebook interface and execute any file to be reproduce the corresponding results
+    ```
+    jupyter notebook
+    ```
+8. You can any .ipynb file on command line to reproduce the corresponding results using the following command:
+    ```
+    jupyter nbconvert --execute /file/path/to/anyfile.ipynb --to notebook
+    ```
 ### Requirements
 
 Ensure the following dependencies are installed:
